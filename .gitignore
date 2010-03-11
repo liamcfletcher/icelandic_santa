@@ -1,0 +1,5 @@
+db/*.sqlite3*
+rerun.txt
+log
+tmp
+webrat-*.html
