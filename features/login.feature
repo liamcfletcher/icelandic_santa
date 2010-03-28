@@ -13,5 +13,5 @@ Feature: Login
     And I fill in "Username" with "jimmy"
     And I fill in "Password" with "jimbob"
     And I press "Log in"
-    Then I should be on the welcome page
+    Then I should be on the user page for "Jimmy"
 
